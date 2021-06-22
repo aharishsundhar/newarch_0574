@@ -1,0 +1,7 @@
+{
+  "name": "newarch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
